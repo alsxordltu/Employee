@@ -1,0 +1,10 @@
+dto에 필요한 변수들 : 사원번호(EMPLOYEE_ID from employees),
+							 사원이름(EMAIL from employees),
+							 직업(EMPLOYEE_ID from employees),
+							 입사일(HIRE_DATE from employees),
+							 월급 (SALARY from employees),
+							 
+							
+							
+페이징 나중에
+타이틀 프로퍼티스로 바꾸는것도 나중에
